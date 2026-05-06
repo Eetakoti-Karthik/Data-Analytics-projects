@@ -130,5 +130,5 @@ How to navigate:
 Contact me:
 - LinkedIn: [https://in.linkedin.com/in/karthik-eetakoti](www.linkedin.com/in/karthik-eetakoti)
 - Email: karthikeetakoti@gmail.com
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/Eetakoti-Karthik](https://github.com/yourusername)
 
