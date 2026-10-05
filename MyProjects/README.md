@@ -148,7 +148,7 @@ Developed an interactive, lightweight Excel dashboard providing a single-screen 
 - Pivot table architecture and data aggregation,
 - Dashboard design and interactive slicing.
 
-### 📺 5. Tableau – Credit Card Complaints Analytics & Monitoring:
+### 📺 7. Tableau – Credit Card Complaints Analytics & Monitoring:
 
 🔹 Description:
 Built an interactive Tableau dashboard tracking consumer credit card complaints across the United States to provide operational and compliance insights.   
@@ -169,7 +169,7 @@ Built an interactive Tableau dashboard tracking consumer credit card complaints 
 - Operational metrics tracking and compliance analysis,
 - Dashboard storytelling and interactive filtering.
 
-### 📦 6. Python & PostgreSQL – Superstore Sales & Profitability Analysis:
+### 📦 8. Python & PostgreSQL – Superstore Sales & Profitability Analysis:
 
 🔹 Description:
 Conducted an in-depth data analytics investigation into revenue growth, discount elasticity, and product profitability using Python for data cleansing and PostgreSQL for advanced business intelligence queries.   
