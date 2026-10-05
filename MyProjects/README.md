@@ -11,7 +11,7 @@ To start my career in a Data Analyst roles where I can apply my skills in SQL, v
 ---
 
 ### 🚀 Projects Overview(Portfolio):
-This portfolio consists of four end-to-end data analytics projects, each focusing on different tools and real-world business scenarios.
+This portfolio consists of Seven end-to-end data analytics projects, each focusing on different tools and real-world business scenarios.
 ---
 
 ### Tools:
