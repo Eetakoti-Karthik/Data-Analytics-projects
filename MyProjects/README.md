@@ -36,11 +36,13 @@ Designed and implemented relational database systems using MySQL to simulate rea
     - Implemented joins, subqueries, aggregations, and filtering,
     - Extracted insights such as patient records, doctor availability, employee performance, and salary structures.
 
-🔹 Skills Showcased(implemented):
-    - SQL querying (SELECT, JOIN, GROUP BY, HAVING),
-    - Database design and normalization,
+
+🔹Skills Showcased(implemented):
+    - SQL querying (SELECT, JOIN, GROUP BY, HAVING), 
+    - Database design and normalization
     - Window functions and CTEs,
     - Problem-solving through queries.
+    
 ---
 
 ### 📺 2. Tableau – Amazon Prime Shows Analysis:
